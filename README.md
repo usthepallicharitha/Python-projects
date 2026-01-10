@@ -1,17 +1,21 @@
-# Python Projects
+# Python Projects 🚀
 
-This repository contains beginner to intermediate Python projects.
+This repository contains multiple Python mini-projects created for learning and practice.
 
 ## Projects Included
-- 🐍 Snake Game
-- 🎨 Paint Application
-- ⏰ Alarm Clock
-- ⌨ Typing Master
+- Alarm Clock
+- Chatbot
+- Library Management System
+- Paint Application
+- Snake Game
+- Typing Master
+- Weather Forecast
+- WhatsApp Automation
 
-## Technologies Used
-- Python
-- Tkinter
-- Pygame
+## Requirements
+- Python 3.x
+- tkinter
+- requests (for weather app)
 
 ## How to Run
 ```bash
