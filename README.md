@@ -12,6 +12,7 @@ This repository contains multiple Python mini-projects created for learning and 
 - Weather Forecast
 - WhatsApp Automation
 - Qr generator
+- user authentication with gmail
 
 ## Requirements
 - Python 3.x
