@@ -11,6 +11,7 @@ This repository contains multiple Python mini-projects created for learning and 
 - Typing Master
 - Weather Forecast
 - WhatsApp Automation
+- Qr generator
 
 ## Requirements
 - Python 3.x
